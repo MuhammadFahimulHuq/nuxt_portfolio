@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-blue text-white py-5 mx-auto">
+    <div class="bg-blue text-white py-5 mx-auto border-b-2 border-green border-opacity-50">
     <div class="w-[80%] flex justify-between mx-auto">
         <div class="text-xl font-bold">Navbar</div>
         <div class="flex gap-10">
